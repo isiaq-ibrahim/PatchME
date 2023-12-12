@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "985566600544",
+    "project_id": "patchme-3e103",
+    "storage_bucket": "patchme-3e103.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985566600544:android:0ad05f887d35cd1cec5205",
+        "android_client_info": {
+          "package_name": "com.example.patchme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGHMMzNWQ0YNwHfZ13V5yT7RCFo59WopY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
